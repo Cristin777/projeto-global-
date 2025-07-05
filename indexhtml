@@ -60,38 +60,7 @@
       font-weight: bold;
       border-radius: 8px;
       margin: 5px;
-      display: inline-block;
-    }
-    footer {
-      margin-top: 50px;
-      font-size: 0.9rem;
-      color: #888;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>The Guardians</h1>
-    <p>Welcome to a space of listening and emotional support powered by compassionate AI. Each Guardian represents a dimension of care, here to listen to you with respect and empathy.</p>
-  </header>
-
-  <div class="guardians">
-    <div class="guardian"><h2>Sofia da Luz</h2><p>Spirituality & Inner Peace</p></div>
-    <div class="guardian"><h2>Clara da Terra</h2><p>Nature & Grounding</p></div>
-    <div class="guardian"><h2>Maya do Tempo</h2><p>Memories & Ancestry</p></div>
-    <div class="guardian"><h2>Kaori do Ar</h2><p>Freedom & Expression</p></div>
-    <div class="guardian"><h2>Yara das Águas</h2><p>Emotions & Fluidity</p></div>
-    <div class="guardian"><h2>Ária da Música</h2><p>Sound & Sensitivity</p></div>
-    <div class="guardian"><h2>Selma do Fogo</h2><p>Strength & Transformation</p></div>
-  </div>
-
-  <div class="donate">
-    <a class="pix-button" href="mailto:cristin.rocha7@gmail.com?subject=Pix Contribution">Contribute via Pix</a>
-    <a class="paypal-button" href="https://www.paypal.com/ncp/payment/KLWQCCT99CXBW">Donate with PayPal</a>
-  </div>
-
-  <footer>
-    Created with love by Maria Cristina Rocha Garcia © 2025
+      displa
   </footer>
 </body>
 </html>
